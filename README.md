@@ -36,9 +36,16 @@ Atuo no desenvolvimento de projetos de Ciência de Dados, utilizando análise ex
   SHAP
 </p>
 
-**Analytics & BI**
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=powerbi" /> </p> Power BI · EDA · Feature Engineering · Visualização de Dados
+### 📈 Analytics & BI
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=powerbi" width="50" height="50" /> Power BI &nbsp;&nbsp;
+  EDA &nbsp;&nbsp;
+  Feature Engineering &nbsp;&nbsp;
+  Visualização de Dados
+</p>
+
 
 ## 📊 Projetos em Destaque
 
