@@ -10,7 +10,9 @@ Atuo no desenvolvimento de projetos de Ciência de Dados, utilizando análise ex
 
 **Linguagens & Dados**
 
-🐍 Python · SQL · R · PostgreSQL · MongoDB
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+           Python · SQL · R · PostgreSQL · MongoDB
 
 **Data Science & Machine Learning**
 
