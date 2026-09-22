@@ -15,10 +15,11 @@ Atuo no desenvolvimento de projetos de Ciência de Dados, utilizando análise ex
 **Data Science & Machine Learning**
 
 📊 Pandas · NumPy · Scikit-learn · XGBoost · Random Forest · SVM · SHAP
+tab
 
 **Analytics & BI**
 
-📈 Power BI · EDA · Feature Engineering · Visualização de Dados
+<p align="left"> <img src="https://skillicons.dev/icons?i=powerbi" /> </p> Power BI · EDA · Feature Engineering · Visualização de Dados
 
 ## 📊 Projetos em Destaque
 
