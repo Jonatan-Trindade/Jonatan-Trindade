@@ -21,10 +21,20 @@ Atuo no desenvolvimento de projetos de Ciência de Dados, utilizando análise ex
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40" /> MongoDB
 </p>
 
+
 **Data Science & Machine Learning**
 
-📊 Pandas · NumPy · Scikit-learn · XGBoost · Random Forest · SVM · SHAP
-tab
+### 📊 Data Science & Machine Learning
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" height="40" /> Pandas &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="40" height="40" /> NumPy &nbsp;&nbsp;
+  Scikit-learn &nbsp;&nbsp;
+  XGBoost &nbsp;&nbsp;
+  Random Forest &nbsp;&nbsp;
+  SVM &nbsp;&nbsp;
+  SHAP
+</p>
 
 **Analytics & BI**
 
