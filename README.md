@@ -10,42 +10,15 @@ Atuo no desenvolvimento de projetos de Ciência de Dados, utilizando análise ex
 
 **Linguagens & Dados**
 
-
-
-### 🐍 Linguagens & Banco de Dados
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40" /> Python &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="40" height="40" /> R &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" /> PostgreSQL &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40" /> MongoDB
-</p>
-
+🐍 Python · SQL · R · PostgreSQL · MongoDB
 
 **Data Science & Machine Learning**
 
-### 📊 Data Science & Machine Learning
+📊 Pandas · NumPy · Scikit-learn · XGBoost · Random Forest · SVM · SHAP
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" height="40" /> Pandas &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="40" height="40" /> NumPy &nbsp;&nbsp;
-  Scikit-learn &nbsp;&nbsp;
-  XGBoost &nbsp;&nbsp;
-  Random Forest &nbsp;&nbsp;
-  SVM &nbsp;&nbsp;
-  SHAP
-</p>
+**Analytics & BI**
 
-
-### 📈 Analytics & BI
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=powerbi" width="50" height="50" /> Power BI &nbsp;&nbsp;
-  EDA &nbsp;&nbsp;
-  Feature Engineering &nbsp;&nbsp;
-  Visualização de Dados
-</p>
-
+📈 Power BI · EDA · Feature Engineering · Visualização de Dados
 
 ## 📊 Projetos em Destaque
 
