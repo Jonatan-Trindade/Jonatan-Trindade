@@ -1,7 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=045F5F&height=120&section=header" alt="banner" />
-
 <a href="https://github.com/Jonatan-Trindade">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1200&color=0A8F8F&width=800&height=60&vCenter=true&repeat=true&lines=Meus+projetos+permeiam+An%C3%A1lise+e+Ci%C3%AAncia;Cientista+de+Dados+%7C+Machine+Learning;Python+%7C+SQL+%7C+Estat%C3%ADstica" alt="Jonatan Trindade" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=1200&color=0A8F8F&width=800&height=60&vCenter=true&repeat=true&lines=Cientista+de+Dados+do+Par%C3%A1;SELECT+insights+FROM+dados%3B;Risco+de+cr%C3%A9dito+e+an%C3%A1lise+de+fraude;Treino+modelos+e+explico+o+porqu%C3%AA;import+pandas+as+pd" alt="Jonatan Trindade" />
 </a>
 
 ## 👋 Olá, eu sou Jonatan Trindade
