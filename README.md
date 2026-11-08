@@ -1,3 +1,8 @@
+<a href="https://github.com/SEU_USUARIO">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1500&color=0A8F8F&width=700&height=60&vCenter=true&repeat=true&lines=Meus+projetos+permeiam+An%C3%A1lise+e+Ci%C3%AAncia" alt="Meus projetos permeiam Análise e Ciência" />
+</a>
+
+
 # 👋 Olá, eu sou Jonatan Trindade
 
 ### Cientista de Dados | Machine Learning | Python | SQL
