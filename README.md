@@ -1,7 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=045F5F&height=120&section=header" alt="banner" />
-
 <a href="https://github.com/Jonatan-Trindade">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=900&color=0A8F8F&width=800&height=60&vCenter=true&repeat=true&lines=Cientista+de+Dados;SELECT+insights+FROM+dados%3B;Risco+de+cr%C3%A9dito+e+an%C3%A1lise+de+fraude;Treino+modelos+e+explico+o+porqu%C3%AA;import+pandas+as+pd" alt="Jonatan Trindade" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=0A8F8F&width=900&height=60&vCenter=true&repeat=true&lines=Cientista+de+Dados+%7C+Engenheiro+da+Computa%C3%A7%C3%A3o;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Machine+Learning;XGBoost+%C2%B7+SHAP+%C2%B7+Databricks+%C2%B7+dbt+%C2%B7+PostgreSQL;Hackathon+TJPA+%C2%B7+Hackathon+Google+Gemma;Suporte+t%C3%A9cnico+a+ministros+na+COP30;Est%C3%A1gio+de+TI+na+ADEPAR%C3%81;P%C3%B3s+em+Data+Science+%C2%B7+UNAMA" alt="Jonatan Trindade" />
 </a>
 
 ## 👋 Olá, eu sou Jonatan Trindade
