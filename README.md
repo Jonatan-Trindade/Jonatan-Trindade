@@ -171,6 +171,9 @@
   <a href="https://github.com/Jonatan-Trindade">
     <img src="https://img.shields.io/badge/GitHub-045F5F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://www.kaggle.com/trinmat">
+    <img src="https://img.shields.io/badge/Kaggle-045F5F?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=045F5F&height=100&section=footer" alt="rodapé" />
