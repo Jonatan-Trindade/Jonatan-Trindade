@@ -96,12 +96,25 @@
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3>🖥️ Estágio de TI · ADEPARÁ</h3>
-      Atendimento por sistema de chamados, manutenção de servidores, controle de tráfego e segurança de rede.
+      <h3>🖥️ ADEPARÁ · Estagiário de TI</h3>
+      <sub>Agência de Defesa Agropecuária do Estado do Pará · Belém, PA · Out/2024 – Out/2026</sub>
+      <ul>
+        <li>Planilhas de controle e relatórios gerenciais em Excel para acompanhar demandas e ativos de TI.</li>
+        <li>Tratamento, validação e consolidação de registros técnicos, identificando inconsistências.</li>
+        <li>Análise de logs e dados de infraestrutura para encontrar causas de incidentes e apoiar decisões.</li>
+        <li>Trabalho com equipes multidisciplinares na melhoria de processos.</li>
+        <li>Suporte técnico presencial e remoto, manutenção de computadores e segurança da rede.</li>
+      </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🌎 COP30 · DMDL</h3>
-      Suporte técnico a ministros de diversos países, padronização de equipamentos e atualização da segurança dos notebooks para garantir o sigilo.
+      <h3>🌎 DMDL · COP30</h3>
+      <sub>Apoio em Tecnologia e Infraestrutura · Nov/2025 – Dez/2025</sub>
+      <ul>
+        <li>Monitoramento e análise do tráfego de rede, apoiando a prevenção de incidentes.</li>
+        <li>Acompanhamento de ativos tecnológicos e da distribuição de recursos.</li>
+        <li>Suporte técnico a usuários de diferentes nacionalidades em evento internacional de grande porte.</li>
+        <li>Distribuição e padronização de equipamentos eletrônicos.</li>
+      </ul>
     </td>
   </tr>
 </table>
