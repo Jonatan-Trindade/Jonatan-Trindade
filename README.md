@@ -54,10 +54,24 @@ Análise exploratória e engenharia de atributos aplicada a dados de imóveis, i
 
 Busco oportunidades em Ciência de Dados, Machine Learning, Analytics e Inteligência Artificial, aplicando conhecimento técnico para resolver problemas reais e gerar valor através dos dados.
 
-## 📫 Contato
+<h2 align="center">📫 Vamos conversar?</h2>
 
-💼 [LinkedIn](https://www.linkedin.com/in/jonatan-trindade)  
-📧 Email: [trindademateus120@gmail.com](mailto:trindademateus120@gmail.com)  
-🐙 [GitHub](https://github.com/Jonatan-Trindade)
+<p align="center">
+  Aberto a oportunidades em Ciência de Dados, Machine Learning e Analytics.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jonatan-trindade">
+    <img src="https://img.shields.io/badge/LinkedIn-045F5F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:trindademateus120@gmail.com">
+    <img src="https://img.shields.io/badge/Email-045F5F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Jonatan-Trindade">
+    <img src="https://img.shields.io/badge/GitHub-045F5F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=045F5F&height=100&section=footer" alt="rodapé" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=045F5F&height=100&section=footer" alt="rodapé" />
